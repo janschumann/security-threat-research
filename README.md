@@ -25,7 +25,7 @@ Vendors tend to focus their reports on the main topics of their target customer 
 
 - A global, multi-platform anti malware software vendor 
 
-**Recent Report** 
+*Recent Report*
 - https://resources.malwarebytes.com/files/2020/02/2020_State-of-Malware-Report.pdf
 
 - Main threat (p. 6, 8-12): Adware (https://de.malwarebytes.com/adware/)
@@ -42,7 +42,7 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - A global, multi-platform anti malware software vendor 
 - Probably more business-focused
 
-**Recent Report** 
+*Recent Report* 
 - https://www.mcafee.com/enterprise/en-us/assets/reports/rp-quarterly-threats-nov-2020.pdf
 
 - Much more detailed than malwarebytes report
@@ -53,7 +53,7 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - A global, multi-platform security system vendor (software and hardware)
 - Small business focused
 
-**Recent Report** 
+*Recent Report* 
 - https://www.sophos.com/de-de/medialibrary/PDFs/technical-papers/sophos-2021-threat-report.pdf
 
 - Heavily warning on the rise of ransomware
@@ -63,7 +63,7 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - A global firewall vendor
 - Enterprise focused
 
-**Recent Report** 
+*Recent Report*
 - https://www.checkpoint.com/downloads/resources/cyber-security-report-2020.pdf
   
 - Choose prevention over detection
