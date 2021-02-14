@@ -81,7 +81,7 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - https://thehackernews.com
 - https://www.heise.de/security/
 
-### General Media*
+### General Media
 
 #### Die Zeit - https://www.zeit.de/suche/index?q=cyber+security 
   - less than one article per month
