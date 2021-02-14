@@ -52,3 +52,13 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - Choose prevention over detection
 - Leverage Zero-Trust (https://www.crowdstrike.com/epp-101/zero-trust-security/)
 
+## Government Supported Research
+
+### Federal Ministry of Education and Research
+
+- https://www.bmbf.de/en/cybersecurity-research-to-boost-germany-s-competitiveness-1418.html
+- https://www.forschung-it-sicherheit-kommunikationssysteme.de/forschung/it-sicherheit/wag-cyber-sr
+- https://www.kit.edu/kit/english/pi_2020.php
+- https://it-security-map.eu/fileadmin/user_upload/documents/secUnity_Cybersecurity_Research_Challenges_and_Course_of_Action.pdf
+- https://www.kastel.kit.edu/downloads/Entwicklung_sicherer_Software_durch_Security_by_Design.pdf
+
