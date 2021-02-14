@@ -71,10 +71,16 @@ Vendors tend to focus their reports on the main topics of their target customer 
 
 ## Media
 
-A collection of news sources, that focus on security.
+*A collection of news sources, that focus on security*
 
 - https://thehackernews.com
 - https://www.heise.de/security/
+
+*General Media*
+
+- https://www.zeit.de/suche/index?q=cyber+security
+  - If only monitoring political aspects/positions
+
 
 ## Community
 
