@@ -71,21 +71,24 @@ Vendors tend to focus their reports on the main topics of their target customer 
 
 ## Media
 
-*A collection of news sources, that focus on security*
+### A collection of news sources, that focus on security
 
 - https://thehackernews.com
 - https://www.heise.de/security/
 
-*General Media*
+### General Media*
 
-- https://www.zeit.de/suche/index?q=cyber+security 
+#### Die Zeit - https://www.zeit.de/suche/index?q=cyber+security 
   - less than one article per month
   - if only monitoring political aspects/positions
   - no scientific contention
-- https://www.spiegel.de/suche/?suchbegriff=cyber+security&seite=1
+#### Der Spiegel - https://www.spiegel.de/suche/?suchbegriff=cyber+security&seite=1
   - at least one article per month
-  - propagandistic stories  
+  - mainly stories
   - no scientific contention
+#### The Guardian - https://www.theguardian.com/technology/all
+  - at least one article per day
+  - no scientific contention ?
   
 ## Community
 
