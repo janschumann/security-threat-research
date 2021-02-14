@@ -1,21 +1,19 @@
- * [Security Threat Research](#security-threat-research)
-    * [Industry](#industry)
-       * [Vendor Reports](#vendor-reports)
-          * [Malwarebytes](#malwarebytes)
-          * [McAffee](#mcaffee)
-          * [Sophos](#sophos)
-          * [Checkpiont](#checkpiont)
-    * [Media](#media)
-    * [Community](#community)
-       * [CCC](#ccc)
-    * [Science](#science)
-       * [Government Supported Research](#government-supported-research)
-          * [Federal Ministry of Education and Research](#federal-ministry-of-education-and-research)
-       * [Resarch](#resarch)
-          * [Worth to read/buy?](#worth-to-readbuy)
-
-
 # Security Threat Research
+
+* [Industry](#industry)
+  * [Vendor Reports](#vendor-reports)
+    * [Malwarebytes](#malwarebytes)
+    * [McAffee](#mcaffee)
+    * [Sophos](#sophos)
+    * [Checkpiont](#checkpiont)
+* [Media](#media)
+* [Community](#community)
+  * [CCC](#ccc)
+* [Science](#science)
+  * [Government Supported Research](#government-supported-research)
+    * [Federal Ministry of Education and Research](#federal-ministry-of-education-and-research)
+* [Resarch](#resarch)
+  * [Worth to read/buy?](#worth-to-readbuy)
 
 ## Industry 
 
