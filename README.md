@@ -12,8 +12,8 @@
 * [Science](#science)
   * [Government Supported Research](#government-supported-research)
     * [Federal Ministry of Education and Research](#federal-ministry-of-education-and-research)
-* [Resarch](#resarch)
-  * [Links](#links)
+  * [Resarch](#resarch)
+    * [Links](#links)
 
 ## Industry 
 
