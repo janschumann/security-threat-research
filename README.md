@@ -62,3 +62,15 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - https://it-security-map.eu/fileadmin/user_upload/documents/secUnity_Cybersecurity_Research_Challenges_and_Course_of_Action.pdf
 - https://www.kastel.kit.edu/downloads/Entwicklung_sicherer_Software_durch_Security_by_Design.pdf
 
+
+## Scientific Resarch
+
+### Worth to read/buy?
+
+- Cyber Security Threats and Vulnerabilities: A Systematic Mapping Study
+  - https://link.springer.com/article/10.1007/s13369-019-04319-2
+- An Investigation on Cyber Security Threats and Security Models
+  - https://ieeexplore.ieee.org/abstract/document/7371499/authors#authors
+- Comuting Resarch Association
+    - Cybersecurity and Cybertrust Task Force
+      - https://cra.org/ccc/task-forces/cybersecurity-and-cybertrust/
