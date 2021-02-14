@@ -78,10 +78,15 @@ Vendors tend to focus their reports on the main topics of their target customer 
 
 *General Media*
 
-- https://www.zeit.de/suche/index?q=cyber+security
-  - If only monitoring political aspects/positions
-
-
+- https://www.zeit.de/suche/index?q=cyber+security 
+  - less than one article per month
+  - if only monitoring political aspects/positions
+  - no scientific contention
+- https://www.spiegel.de/suche/?suchbegriff=cyber+security&seite=1
+  - at least one article per month
+  - propagandistic stories  
+  - no scientific contention
+  
 ## Community
 
 A collection of initiatives folcused on security
