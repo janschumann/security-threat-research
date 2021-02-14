@@ -54,6 +54,23 @@ Vendors tend to focus their reports on the main topics of their target customer 
 - Choose prevention over detection
 - Leverage Zero-Trust (https://www.crowdstrike.com/epp-101/zero-trust-security/)
 
+## Media
+
+A collection of news sources, that focus on security.
+
+- https://thehackernews.com
+- https://www.heise.de/security/
+
+## Community
+
+A collection of initiatives folcused on security
+
+### CCC
+
+The Chaos Computer Club
+
+- Conference Overview: https://media.ccc.de/b/conferences
+
 ## Science
 
 ### Government Supported Research
