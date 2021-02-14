@@ -101,7 +101,7 @@ The Chaos Computer Club
 
 ### Resarch
 
-#### Worth to read/buy?
+#### Links
 
 - Cyber Security Threats and Vulnerabilities: A Systematic Mapping Study
   - https://link.springer.com/article/10.1007/s13369-019-04319-2
