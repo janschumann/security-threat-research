@@ -110,4 +110,6 @@ The Chaos Computer Club
 - Comuting Resarch Association
     - Cybersecurity and Cybertrust Task Force
       - https://cra.org/ccc/task-forces/cybersecurity-and-cybertrust/
+- Research overview (outdated?) https://www.sciencedirect.com/topics/computer-science/cyber-security-research
+- Oxford Press: https://academic.oup.com/cybersecurity/issue/6/1
 
